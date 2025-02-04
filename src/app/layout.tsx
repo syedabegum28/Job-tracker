@@ -32,3 +32,5 @@ export default function RootLayout({
     </html>
   );
 }
+import { ClerkProvider } from "@clerk/nextjs";
+
